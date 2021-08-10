@@ -1,0 +1,6 @@
+<!DOCKTYPE html>
+  <html>
+      <head>
+        <h2>Yes</h2>
+      </head>
+  </html>
